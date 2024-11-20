@@ -1,2 +1,2 @@
 # Enzyme Knowledge Graph
-![alt text](image.png)
+![alt text](Poster_group8.png)
